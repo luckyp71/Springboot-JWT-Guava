@@ -25,7 +25,7 @@
 <p>HTTP Method = POST</p>
 <p>URL = http://localhost:8090/customers</p>
 <p>
-JSON's payloads example for inserting customer data = 
+JSON's payload example for inserting customer data = 
   </p>
   <p>
 {
@@ -38,7 +38,7 @@ JSON's payloads example for inserting customer data =
 <p>HTTP Method = PUT</p>
 <p>URL = http://localhost:8090/customers</p>
 <p>
-JSON's payloads example for updating customer data = 
+JSON's payload example for updating customer data = 
   </p>
   <p>
 {
@@ -57,7 +57,7 @@ JSON's payloads example for updating customer data =
 <p>HTTP Method = POST</p>
 <p>URL = http://localhost:8090/login</p>
 <p>
-JSON's payloads for login = 
+JSON's payload for login = 
   </p>
   <p>
 {
